@@ -1,0 +1,1 @@
+module.exports = require('../../../utils/FileSystem/packUpDirectory')(__dirname);

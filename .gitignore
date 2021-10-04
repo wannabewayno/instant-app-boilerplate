@@ -1,0 +1,11 @@
+# Client
+/client/src/config/app.env
+/client/node_modules
+/client/build
+/client/src/db
+
+# Server
+/server/src/config/app.env
+/server/node_modules
+/server/src/db/bitcoin/*
+/server/src/db/cardano/*
